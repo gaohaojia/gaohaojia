@@ -4,6 +4,8 @@ I'm a student majoring in AI at Fan Gongxiu Honors College, Beijing University o
 In the 2024 season and 2025 season, I led our school to participate in the RoboMaster college robot competition as the captain and won several national awards.
 I'm currently learning neural networks, computer vision, SLAM, and path planning.
 Welcome to discuss with me.
+
+[![Gao Haojia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
 **gaohaojia/gaohaojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
