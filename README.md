@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+My name is Gao Haojia and I come from Beijing, China.
+I'm a student majoring in AI at Fan Gongxiu Honors College, Beijing University of Technology.
+I'm currently learning neural networks, computer vision, SLAM, and path planning.
+Welcome to discuss with me.
 <!--
 **gaohaojia/gaohaojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
