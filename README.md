@@ -10,14 +10,27 @@
 My name is Gao Haojia and I come from Beijing, China.
 I'm a student majoring in AI at Fan Gongxiu Honors College, Beijing University of Technology.
 In the 2024 season and 2025 season, I led our school to participate in the RoboMaster college robot competition as the captain and won several national awards.
-I'm currently learning **neural networks, computer vision, SLAM, and path planning**.
+I'm currently learning **neural networks**, **computer vision**, **SLAM**, and **path planning**.
 Welcome to discuss with me.
 
 <div>&nbsp;</div>
- 
+
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=dark#gh-dark-mode-only"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=dark#gh-dark-mode-only" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=light#gh-light-mode-only" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=dark#gh-dark-mode-only" />
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=light#gh-light-mode-only" />
+          <img src="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only" />
+        </picture>
+    </tr>
+  </table>
 </div>
 
 <div>&nbsp;</div>
