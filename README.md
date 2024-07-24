@@ -1,9 +1,9 @@
 ## Hi there 👋
-<div align=center>
-  <b>You are my</b>
+<p align="center">
+  <b>This is the</b>
   <img src="https://profile-counter.glitch.me/gaohaojia/count.svg"/>
-  <b>visitor!</b>
-</div>
+  <b>time I've been interviewed!</b>
+</p>
 
 <div>&nbsp;</div>
 
@@ -24,11 +24,14 @@ Welcome to discuss with me.
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=light#gh-light-mode-only" />
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=dark#gh-dark-mode-only" />
         </picture>
+      </td>
+      <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only" />
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=light#gh-light-mode-only" />
           <img src="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only" />
         </picture>
+      </td>
     </tr>
   </table>
 </div>
