@@ -49,6 +49,19 @@ Welcome to discuss with me.
   </tr>
 </table>
 
+<div>&nbsp;</div>
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" />
+        <img src="profile-3d-contrib/profile-season-animate.svg" />
+      </picture>
+  </tr>
+</table>
+
 <!--
 **gaohaojia/gaohaojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
