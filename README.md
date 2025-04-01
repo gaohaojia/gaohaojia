@@ -13,7 +13,7 @@ In the 2024 season and 2025 season, I led our school to participate in the [Robo
 I'm currently learning **neural networks**, **computer vision**, **SLAM**, and **path planning**.
 Welcome to discuss with me.
 
-My Personal Website: [About Me](http://aboutme.gaohaojia.top/)
+My Personal Website: <a href="http://aboutme.gaohaojia.top/">About Me</a>
 
 <div>&nbsp;</div>
 
