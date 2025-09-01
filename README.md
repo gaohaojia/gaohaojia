@@ -1,11 +1,4 @@
 ## Hi there 👋
-<p align="center">
-  <b>This is the</b>
-  <img src="https://profile-counter.glitch.me/gaohaojia/count.svg"/>
-  <b>time I've been interviewed!</b>
-</p>
-
-<div>&nbsp;</div>
 
 My name is Haojia Gao and I come from Beijing, China.
 I'm a student majoring in AI at [Fan Gongxiu Honors College](https://fgx-hc.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/).
