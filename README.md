@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Haojia Gao and I come from Beijing, China.
-I'm a student majoring in AI at [Fan Gongxiu Honors College](https://fgx-hc.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/).
-In the 2024 season and 2025 season, I led our school to participate in the [RoboMaster University Championship](https://www.robomaster.com/) as the captain and won several national awards.
-I'm currently learning **Robotics**, **Computer Vision**, and **Embodied AI**.
-Welcome to discuss with me.
+Hello! My name is Haojia Gao and I come from Beijing, China. I'm currently an undergraduate student at the [Fan Gongxiu Honors College](https://fgx-hc.bjut.edu.cn/) of [Beijing University of Technology](https://english.bjut.edu.cn/), majoring in Artificial Intelligence, with an expected graduation in 2026.
 
-My Personal Website: <a href="https://www.gaohaojia.top/">Personal Website</a>
+I'm fortunate to have been admitted to the [Tsinghua University](https://www.tsinghua.edu.cn/en/), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/) for postgraduate studies, where I'll pursue a master's degree in Artificial Intelligence starting September 2026. My research interests focus on Robotics and Embodied Intelligence.
+
+Feel free to reach out and connect with me—I'm always open to interesting discussions and collaborations!
+
+My Personal Website: <a href="https://www.gaohaojia.top/">zh</a> / <a href="https://aboutme.gaohaojia.top/">en</a>
 
 <div>&nbsp;</div>
 
