@@ -10,7 +10,7 @@ My Personal Website: <a href="https://www.gaohaojia.top/">zh</a> / <a href="http
 
 <div>&nbsp;</div>
 
-<div align=center>
+<!-- <div align=center>
   <table>
     <tr>
       <td>
@@ -20,7 +20,7 @@ My Personal Website: <a href="https://www.gaohaojia.top/">zh</a> / <a href="http
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaohaojia&layout=compact&theme=dark#gh-dark-mode-only" />
         </picture>
       </td>
-      <!--
+      
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only" />
@@ -28,10 +28,10 @@ My Personal Website: <a href="https://www.gaohaojia.top/">zh</a> / <a href="http
           <img src="https://github-readme-stats.vercel.app/api?username=gaohaojia&show_icons=true&theme=dark#gh-dark-mode-only" />
         </picture>
       </td>
-      -->
+     
     </tr>
   </table>
-</div>
+</div> -->
 
 <!-- <div>&nbsp;</div>
 
