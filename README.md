@@ -6,7 +6,7 @@ Before that, I received my bachelor's degree in Artificial Intelligence from the
 
 Feel free to reach out and connect with me — I'm always open to interesting discussions and collaborations!
 
-My Personal Website: <a href="https://www.gaohaojia.top/">zh</a> / <a href="https://aboutme.gaohaojia.top/">en</a>
+My Personal Website: <a href="https://www.gaohaojia.top/">zh</a> / <a href="https://www.gaohaojia.top/en/">en</a>
 
 <div>&nbsp;</div>
 
